@@ -1,0 +1,10 @@
+Three Observations
+
+1) The majority of players purhcasing items are male (84%).  However when females do make a purchase they are 
+likely to spend slightly more with an averge purchase price of $3.20 compared to the average purchase price of males of 
+$3.02.
+
+2) The majority of players purhcasing items are between the ages of 20-24 (45%). However, when 35-39 year olds make a
+ purchase they are likely to spend more with an avereage purchase price of $3.60
+
+3) The item "Final Critic" was purchased most often (13 times) and made the most total money ($59.99).
